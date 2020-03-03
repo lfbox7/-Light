@@ -1,7 +1,11 @@
 # !Light
 Shell files for the MLHLocalhost !Light Workshop
+---
 
-## Sharpen your frontend development skills with this activity, where you’ll be recreating a website in HTML/CSS using our code editor - all without previewing your code along the way.
+## [!Light Page](https://no-light.mlh.io/tamusa)
+
+
+### Sharpen your frontend development skills with this activity, where you’ll be recreating a website in HTML/CSS using our code editor - all without previewing your code along the way.
 
 ### About this Activity
 During this activity, you’ll host the !Light (pronounced No Light) game. We’ll teach you how to run !Light by covering the rules of how to play and what tools you can use to run the contest smoothly. !Light is great for both participants writing code and for an audience to watch and in by judging submissions.
